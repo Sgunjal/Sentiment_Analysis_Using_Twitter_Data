@@ -1,0 +1,1 @@
+a wise project manager once said, respect the legacy code base. phase it out in parts, big bangs changes usually don't work. #DeMonetisation

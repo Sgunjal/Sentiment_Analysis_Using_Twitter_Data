@@ -1,0 +1,16 @@
+	In this assignment I am finding out peoples sentiment about DeMonetisation happened in india. 
+Demonetization means the old unit of currency must be retired and replaced with a new currency unit.
+This is currently trending issue in India and people have both positive and negative sentiments about.
+I am collecting tweets which has #DeMonetisation using search API of twitter and classifying them as 
+Positive and negative sentiment based on train data which will train model.
+       	In cluster.py i am finding out users who has tweeted about this issue and using there id am also 
+Collecting whom they follow, using this information i am creating graph which will be one big component. 
+This graph i am dividing in different communities using girvan newman. This information i am using to 
+find out average user per community and sentiments of that community. 
+	In classify.py I am finding out positive and negative sentiments of people from tweets collected.
+To find out positive and negative sentiments of people, first i am training my model using train data which 
+Is classifies using AFINN. Then i am collecting live twitter data which will be my test data, and then i am 
+classifying this data as positive and negative sentiments.
+     	In summarize.py file i am showing final analysis. By looking at data in file we can say that more
+people having negative sentiments about DeMonetisation issue and people unhappy about the government decision 
+while there are some people which are happy about government decision and having positive sentiment.

@@ -1,0 +1,15 @@
+Number of users collected: 15
+
+Number of messages collected:: 100
+
+Number of instances per class found: 
+Number of instances of Positive class found: 31
+Number of instances of Negative class found: 69
+
+One example from each class: 
+Example of Positive Class: 
+RT @iSirArnab: Big ACHIEVEMENT for Govt, Naxal coming to an END... #DeMonetisation a very thoughtful Decision by PM, nailing down INSECTS f
+
+Example of Negative Class: 
+RT @goyalsanjeev: So @MamataOfficial paid Rs 250-300 to poor people 2 join her protest-rally against #DeMonetisation in Patna?? #Shame http
+
